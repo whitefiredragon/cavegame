@@ -72,6 +72,6 @@ def main():
         FPSCLOCK.tick(15)
 
 if __name__== ' __main__':
-    print("cave start")
+    print("cave start@@@@")
     main()
-            
+    print("룰루랄라 hello my name is white fire dragon")
