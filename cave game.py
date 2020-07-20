@@ -74,4 +74,5 @@ def main():
 if __name__== ' __main__':
     print("cave start@@@@")
     main()
-    print("룰루랄라 hello my name is white fire dragon")
+    print("레시라무fdfdfdfdf hello my name is white fire dragon")
+    
